@@ -54,7 +54,7 @@ The project evaluates Apple from three angles — **business**, **valuation**, a
 
 ## 5. Key Takeaways
 
-- Apple shows **exceptional profitability** (ROE ~152%) and **stable Free Cash Flow** (~$98.8B), supporting dividends, buybacks, and R&D.
+- Apple shows **exceptional profitability** (ROE 152%) and **stable Free Cash Flow** (~$98.8B), supporting dividends, buybacks, and R&D.
 - Liquidity ratios are below 1 but **manageable** given strong cash generation.
 - Valuation is **highly sensitive to the discount rate** — at WACC ≈ 15.79% the DCF implies the stock is richly priced.
 - Technical signals lean **bullish/short-term up**, reinforcing a **HOLD** rather than buy/sell.
